@@ -1,2 +1,2 @@
-# syn-programming-language
-This is a new version of the Syn programming language, written in C++.
+# Syn Plus Programming Language
+> This is the new Syn lanuguage that is compiled.
