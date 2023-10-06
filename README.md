@@ -4,5 +4,4 @@ This is the new Syn lanuguage that is compiled. At the moment, it is still heavi
 - [x] start and code most of return function in Assembly Frontend
 - [x] start output function
 - [x] uncontrollably sob at all the segmentation faults because of all the miss-matched memory allocations
-- [ ] get the compiler to spit out a value with the output function
-- [ ] get the compiler to spit out a string with the output function
+- [ ] get the compiler to spit out a string/value with the output function
