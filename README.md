@@ -5,4 +5,8 @@ This is the new Syn lanuguage that is compiled. At the moment, it is still heavi
 - [x] start output function
 - [x] uncontrollably sob at all the segmentation faults because of all the miss-matched memory allocations
 - [x] get the compiler to spit out a string/value with the output function
-- [ ] code escape sequences
+- [x] code escape sequences
+- [ ] fix escape sequences
+- [ ] fix bugs
+- [ ] heavily customize syntax and modify code to be less like the Tac compiler
+- [ ] release first public beta (beta 0.74)
