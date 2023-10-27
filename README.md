@@ -7,7 +7,7 @@ This is the new Syn lanuguage that is compiled. At the moment, it is still heavi
 - [x] get the compiler to spit out a string/value with the output function
 - [x] escape sequences
 - [x] fix escape sequences
-- [ ] fix bugs
+- [x] fix bugs
 - [ ] argv functionality
 - [ ] heavily customize syntax and modify code to be less like the Tac compiler
 - [ ] release first public beta (beta 0.74)
