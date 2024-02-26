@@ -11,6 +11,6 @@ This is the new Syn lanuguage that is compiled. At the moment, it is still heavi
 - [x] escape sequences
 - [x] fix escape sequences
 - [x] fix bugs
-- [ ] argv functionality
+- [ ] arguments functionality
 - [ ] heavily customize syntax and modify code to be less like the Tac compiler
 - [ ] release first public beta (beta 0.74)
